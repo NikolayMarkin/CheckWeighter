@@ -561,11 +561,32 @@ namespace ServerTestGUI
             settingsDialog.ShowDialog(this);
         }
 
+        protected override void OnClosing(CancelEventArgs e)
+        {
+            base.OnClosing(e);
+            //отменяем действие по умолчанию
+            e.Cancel = true;
+            //и скрываем форму в области уведомлений
+            this.Hide();
+        }
+
         private void notifyIcon_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             //если программа свернута развернуть и наоборот
 
-            
+            //проверяем свернуто окно или нет
+            if (this.Visible == false)
+            {
+                // окно свернуто - разворчиваем 
+                this.Show();
+                //сделать активным только что развернутое окно
+                this.Activate();
+            }
+            else
+            {
+                // окно развернуто - сворачиваем его в трей
+                this.Hide();
+            }
         }
 
     }
