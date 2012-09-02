@@ -1,0 +1,40 @@
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\bin\Debug\CommonFormsLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\bin\Debug\CommonFormsLibrary.pdb
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\bin\Debug\DLLWrapperLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\bin\Debug\DLLWrapperLibrary.pdb
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\obj\Debug\CommonForms.FileSettings.resources
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\obj\Debug\CommonForms.IPSettings.resources
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.csproj.GenerateResource.Cache
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.pdb
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\bin\Debug\CommonFormsLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\bin\Debug\CommonFormsLibrary.pdb
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\bin\Debug\DLLWrapperLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\bin\Debug\DLLWrapperLibrary.pdb
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonForms.FileSettings.resources
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonForms.IPSettings.resources
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.csproj.GenerateResource.Cache
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\bin\Debug\CommonFormsLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\bin\Debug\CommonFormsLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\bin\Debug\DLLWrapperLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\bin\Debug\DLLWrapperLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonForms.FileSettings.resources
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonForms.IPSettings.resources
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.csproj.GenerateResource.Cache
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Debug\CommonFormsLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\bin\Release\CommonFormsLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\bin\Release\CommonFormsLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\bin\Release\DLLWrapperLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\bin\Release\DLLWrapperLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Release\CommonForms.FileSettings.resources
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Release\CommonForms.IPSettings.resources
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Release\CommonFormsLibrary.csproj.GenerateResource.Cache
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Release\CommonFormsLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\CommonFormsLibrary\obj\Release\CommonFormsLibrary.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\DLLWrapperLibrary\bin\Debug\DLLWrapperLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\DLLWrapperLibrary\bin\Debug\DLLWrapperLibrary.pdb
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\DLLWrapperLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\DLLWrapperLibrary\obj\Debug\DLLWrapperLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW\DLLWrapperLibrary\obj\Debug\DLLWrapperLibrary.pdb
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\DLLWrapperLibrary\bin\Debug\DLLWrapperLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\DLLWrapperLibrary\bin\Debug\DLLWrapperLibrary.pdb
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\DLLWrapperLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\DLLWrapperLibrary\obj\Debug\DLLWrapperLibrary.dll
+C:\Documents and Settings\kaf_adm\Мои документы\Visual Studio 2005\Projects\ServerXmlCW_new\DLLWrapperLibrary\obj\Debug\DLLWrapperLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\bin\Debug\DLLWrapperLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\bin\Debug\DLLWrapperLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\obj\Debug\DLLWrapperLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\obj\Debug\DLLWrapperLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\bin\Release\DLLWrapperLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\bin\Release\DLLWrapperLibrary.pdb
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\obj\Release\DLLWrapperLibrary.dll
+C:\project\CheckWeighter\ServerXmlCW_new\DLLWrapperLibrary\obj\Release\DLLWrapperLibrary.pdb

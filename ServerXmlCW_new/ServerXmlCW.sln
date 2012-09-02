@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerXmlCW", "ServerTestGUI\ServerXmlCW.csproj", "{408871C7-7BC6-4B80-80A0-AA90BB6E1FB5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BD0F5C79-74FF-4078-9DC6-B887ABD95AC0} = {BD0F5C79-74FF-4078-9DC6-B887ABD95AC0}
+		{C5526890-BCF7-4FB9-BCC5-D16DCDC9E1D2} = {C5526890-BCF7-4FB9-BCC5-D16DCDC9E1D2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFormsLibrary", "CommonFormsLibrary\CommonFormsLibrary.csproj", "{C5526890-BCF7-4FB9-BCC5-D16DCDC9E1D2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BD0F5C79-74FF-4078-9DC6-B887ABD95AC0} = {BD0F5C79-74FF-4078-9DC6-B887ABD95AC0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLWrapperLibrary", "DLLWrapperLibrary\DLLWrapperLibrary.csproj", "{BD0F5C79-74FF-4078-9DC6-B887ABD95AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408871C7-7BC6-4B80-80A0-AA90BB6E1FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408871C7-7BC6-4B80-80A0-AA90BB6E1FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408871C7-7BC6-4B80-80A0-AA90BB6E1FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408871C7-7BC6-4B80-80A0-AA90BB6E1FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5526890-BCF7-4FB9-BCC5-D16DCDC9E1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5526890-BCF7-4FB9-BCC5-D16DCDC9E1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5526890-BCF7-4FB9-BCC5-D16DCDC9E1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5526890-BCF7-4FB9-BCC5-D16DCDC9E1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0F5C79-74FF-4078-9DC6-B887ABD95AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0F5C79-74FF-4078-9DC6-B887ABD95AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0F5C79-74FF-4078-9DC6-B887ABD95AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0F5C79-74FF-4078-9DC6-B887ABD95AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
